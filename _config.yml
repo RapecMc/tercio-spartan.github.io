@@ -21,10 +21,11 @@ pagination:
 facebook: facebook
 twitter: TercioSpartan
 github:  github
+# ig:      terciospartan
 
 #Additional Pages
 about: about
-contact: contact
+contact: 
 privacy-policy: privacy-policy
 
 
@@ -32,7 +33,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-163400394-1"
 
 # Build settings
 markdown: kramdown
@@ -47,7 +48,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
+username: samanyougarg #Tercio-Spartan #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
